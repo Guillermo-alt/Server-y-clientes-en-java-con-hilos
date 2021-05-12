@@ -1,0 +1,24 @@
+Nombre: Alberto
+Sueldo: 1200
+Edad: 22
+-----
+Nombre: Guillermo
+Sueldo: 1666
+Edad: 25
+-----
+Nombre: Alex
+Sueldo: 1666
+Edad: 18
+-----
+Nombre: Mario
+Sueldo: 1550
+Edad: 26
+-----
+Nombre: Paola
+Sueldo: 1556
+Edad: 21
+-----
+Nombre: Carlos
+Sueldo: 8854
+Edad: 24
+-----
